@@ -3,4 +3,4 @@
 # Log file
 *.log
 
-log/
+log/**
