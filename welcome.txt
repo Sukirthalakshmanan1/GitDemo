@@ -4,4 +4,3 @@ from karur
 
 Hello krish
 This is Git Practice merge
-this is
