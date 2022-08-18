@@ -2,6 +2,6 @@ Hi GIT
 HI suki
 from karur
 
-
+Hello krish
 This is Git Practice merge
 perform fun
