@@ -1,2 +1,2 @@
 Hi Git Merge conflicts
-Practice here
+
