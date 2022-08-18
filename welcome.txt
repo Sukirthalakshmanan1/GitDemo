@@ -1,2 +1,3 @@
-Hi Git Merge conflicts
-
+Hi Git Diff conflicts
+are identified ..
+This is a sample pgm.
