@@ -1,6 +1,1 @@
-Hi GIT
-HI suki
-
-This is Git Practice merge
-this is a sample a
-perform fun
+Hi Git Practice
