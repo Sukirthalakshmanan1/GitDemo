@@ -1,1 +1,2 @@
-Hi Git Practice
+Hi Git Merge conflicts
+Practice here
