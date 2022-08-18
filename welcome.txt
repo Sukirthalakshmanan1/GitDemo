@@ -1,4 +1,4 @@
 Hi GIT
 Hi sukilax
-
+This is Git Practice merge
 perform fun
