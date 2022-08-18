@@ -1,5 +1,5 @@
 Hi GIT
-Hi Suki .....
+
 from karur
 
 This is Git Practice merge
