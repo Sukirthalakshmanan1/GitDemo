@@ -1,6 +1,7 @@
 Hi GIT
-Hi Suki .....
+HI suki
 from karur
 
+hello muru
 This is Git Practice merge
 perform fun
