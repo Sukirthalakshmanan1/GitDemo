@@ -1,6 +1,6 @@
 Hi GIT
 HI suki
-
+From Karur...
 
 
 This is Git Practice merge
