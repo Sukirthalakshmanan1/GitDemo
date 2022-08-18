@@ -1,3 +1,2 @@
 Hi Git Merge conflicts
 Practice here
-Happy to learn
