@@ -1,3 +1,2 @@
-hi 
-this is GIT
+Hi GIT
 
