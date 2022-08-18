@@ -1,6 +1,6 @@
 Hi GIT
 HI suki
-from karur
 
-Hello krish
 This is Git Practice merge
+this is a sample a
+perform fun
