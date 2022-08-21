@@ -8,5 +8,5 @@
 log/
 **/log
 
-index1.html/
-bash/
+index1.html/*
+bash/*
